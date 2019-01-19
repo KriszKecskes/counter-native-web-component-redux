@@ -1,3 +1,4 @@
+import '@webcomponents/webcomponentsjs';
 import Counter from './components/Counter';
 import store from './store';
 
